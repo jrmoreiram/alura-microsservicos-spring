@@ -1,4 +1,4 @@
-# Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing
+# Curso de Microservices com Spring Cloud: Registry, Config Server e Distributed Tracing
 
 ### Temas abordados durante o curso:
 - Aprenda como funciona a decomposição do monólito
